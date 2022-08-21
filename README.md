@@ -31,3 +31,5 @@ Nesse repositório você encontra um projeto de um jogo Genius completo, constru
   - setInterval()
 
 ![Foto](https://user-images.githubusercontent.com/75350795/185775954-afc33598-caa6-4100-b08b-aebf7509edbc.png)
+
+Projeto criado com auxílio do professor @inkasadev
