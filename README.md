@@ -4,12 +4,11 @@ Você já jogou Genius?
 
 Genius era um brinquedo muito popular na década de 1980. Distribuído pela Estrela, o brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em sequência. Cabia aos jogadores repetir o processo sem errar.
 
-Nesse repositório você encontra os *starter files* de um projeto de um jogo Genius completo, construído com HTML, CSS e Javascript.
+Nesse repositório você encontra um projeto de um jogo Genius completo, construído com HTML, CSS e Javascript.
 
-- Você pode conferir o resultado final do projeto [clicando aqui](https://genius.surge.sh/).
-- Assista ao passo a passo (dividido em 8 partes) [clicando aqui](https://www.youtube.com/playlist?list=PL28O_hEAqjAtOPTlRHkHrhfmct_USCGfI).
+- Você pode conferir o resultado final do projeto [clicando aqui](https://jogo-genius.surge.sh/).
 
-## O que você irá aprender ao terminar esse projeto:
+## O que eu pude aprender ao terminar esse projeto:
 
 - CSS
   - Variáveis CSS
@@ -31,3 +30,4 @@ Nesse repositório você encontra os *starter files* de um projeto de um jogo Ge
   - setTimeout()
   - setInterval()
 
+![Foto](https://user-images.githubusercontent.com/75350795/185775954-afc33598-caa6-4100-b08b-aebf7509edbc.png)
